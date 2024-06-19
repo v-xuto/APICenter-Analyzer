@@ -1,3 +1,23 @@
+---
+page_type: sample
+languages:
+- azdeveloper
+- typescript
+- javascript
+- powershell
+- bash
+- bicep
+products:
+- azure
+- azure-api-center
+- azure-functions
+- azure-blob-storage
+urlFragment: APICenter-Analyzer
+name: Azure API Center Analyzer
+description: Analyze your API Specs with Azure API Center (Preview)
+---
+<!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 # Analyze your API Specs with Azure API Center (Preview)
