@@ -9,7 +9,6 @@ languages:
 - bicep
 products:
 - azure
-- azure-api-center
 - azure-functions
 - azure-blob-storage
 urlFragment: APICenter-Analyzer
